@@ -4,7 +4,7 @@ function firstChar(text) {
         
         if (text[i] !== ' ') {
            
-            return text[i];
+            
         }
 	}
    return '';
